@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Full Stack and ML Projects<br>👯 I’m looking to collaborate on any project on MERN Stack or AI/ML<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about anything about tech<br>⚡ Fun fact - I have completed python in my school, then learnt MERN and now AI/ML.
 
 
 ## 🌐 Socials:
