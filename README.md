@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack and AL/ML Projects<br>🥇 1x Hackathon Winner(Leader)<br>👯 I’m looking to collaborate on any project on MERN Stack or AI/ML<br>🌱 I’m currently learning NLP, DL, Agentic AI<br>💬 Ask me about anything about tech<br>⚡ Fun fact - I have completed python in my school, then learnt MERN and now AI/ML.Also, I have Participated in around more than 7 hackathons.
+🔭 I’m currently working on Full Stack and AL/ML Projects<br>🥇 2x Hackathon Winner(Leader)<br>👯 I’m looking to collaborate on any project on MERN Stack or AI/ML<br>🌱 I’m currently learning NLP, DL, Agentic AI<br>💬 Ask me about anything about tech<br>⚡ Fun fact - I have completed python in my school, then learnt MERN and now AI/ML.Also, I participated in the ssip hackathon in my high school and till now I have participated in more than 8 hackathons and won 2 of them and learnt from other 6.
 
 
 ## 🌐 Socials:
